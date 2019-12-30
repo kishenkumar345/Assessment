@@ -117,7 +117,7 @@ class App extends Component {
         return userInput.value.indexOf(this.state.search) !== -1;
       }
       //copying state arraylist to this constant
-      //filtering the list by taking the value of userInput, if the search is equal to value of userInput, return the entry that corresponds to that index
+      //filtering the list by taking the value of userInput, if the search is equal to value of userInput, return the entry that corresponds to the index
     );
 
     return (
